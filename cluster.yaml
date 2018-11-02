@@ -8,5 +8,5 @@ resources:
     zone: europe-west1-d
     pools:
      - name: default-pool
-       nodeCount: 3
+       nodeCount: 4
        machineType: "n1-standard-1"
